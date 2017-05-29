@@ -40,7 +40,7 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|                       |               |					|	
+|   [Laravel Exception Notifier](https://github.com/jeremykenedy/laravel-exception-notifier)                    |          Laravel exception notifier will send an email of the error along with the stack trace to the chosen recipients. This Package includes all necessary traits, views, configs, and Mailers for email notifications upon your applications exceptions. You can customize who send to, cc to, bcc to, enable/disable, and custom subject or default subject based on environment. Built for Laravel 5.2, 5.3, and 5.4+.     |	[jeremykenedy]()				|	
 
 ## <a name="F"> </a>F
 
@@ -146,6 +146,7 @@
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 | [Laravel Talk](https://github.com/nahid/talk) | Talk is a Laravel 5 based user conversation (inbox) system with realtime messaging | [nahid]()|
+|[Laravel-Themevel](https://github.com/Shipu/themevel) |	Themevel is a Laravel 5 theme and asset management package. You can easily integrate this package with any Laravel based project.| [Shipu]()	|
 |   [Laravel-translate](https://github.com/vortgo/laravel-translate)[P]                    |         Translate system for laravel project      |		[vortgo]()			|	
 
 ## <a name="U"> </a>U
