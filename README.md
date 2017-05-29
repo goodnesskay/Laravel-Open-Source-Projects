@@ -34,7 +34,8 @@
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 | [Cachet](https://github.com/cachethq/Cachet) [P] | Cachet is a beautiful and powerful open source status page system. | [CachetHQ]()|
-|       [Laravel Church Sermons App](https://github.com/dameety/laravel-church-sermons-app) [P]                |      Make your sermons available for members.         |	[dameety]()				|	
+|       [Laravel Church Sermons App](https://github.com/dameety/laravel-church-sermons-app) [P]                |      Make your sermons available for members.         |	[dameety]()				|
+| [Laravel Corcel](http://github.com/jgrossi/corcel) [P] | Laravel is the most used PHP framework, and WordPress is the most used CMS in the world. If you want to have both sides in a unique application just use Corcel. You can create your administration panel using WordPress, with users, custom fields, custom post types, etc, but getting all the information inside your Laravel app, with custom models reading directly from the WordPress database. | [corcel]() |	
 | 		[Laravel Critter App](https://github.com/msurguy/critterapp) [T] | Application that resembles Twitter-like functionality | [msurguy]() |
 
 ## <a name="D"> </a>D
@@ -58,14 +59,17 @@
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 |  [Laravel-facebook-login](https://github.com/msurguy/laravel-facebook-login) [T]         |  Tutorial and demo app for Integrating "Login with Facebook" in a Laravel application  |		[msurguy]()			|
+| [Laravel File Generators](https://github.com/bpocallaghan/generators) [P] | Custom Laravel 5 File Generators with a config file and publishable stubs. You can create new stubs and it in the config. | [bpocallaghan]() |
 | [Laravel Flarum](https://github.com/flarum/core) [P] | Flarum is the next-generation forum software that makes online discussion fun. It's simple, fast, and free. | [flarum]() |
 | [Laravel-Flyer-Generator](https://github.com/msurguy/missingpetflyer) [T] | A flyer generator with AJAX upload | [msurguy]() |	
+
 
 ## <a name="G"> </a>G
 
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
+| [Laravel Game of Tests](https://github.com/swisnl/game-of-tests-laravel) [P] | The Game of Tests works by scanning Git repositories and scanning for known test files. It uses Git blame to attribute tests to developers. You can update through multiple artisan commands for Github, bare directories, or single repositories. | [swisnl]() |
 |    [Laravel GitScrum](https://github.com/renatomarinho/GitScrum) [P]              |    GitScrum with the GPLv3 license in Github, I invite everyone to participate. GitScrum is developed with Laravel 5.3 and is intended to be an application to help teams use Git version control and the Scrum framework with support for daily task management.           |		[renatomarinho]()			|	
 
 ## <a name="H"> </a>H
@@ -80,7 +84,7 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|                       |               |					|	
+|  [Laravel Invoice Ninja](https://github.com/invoiceninja/invoiceninja) [P]   | Invoice Ninja is a free, open-source solution for invoicing and billing customers. With Invoice Ninja, you can easily build and send beautiful invoices from any device that has access to the web. Your clients can print your invoices, download them as pdf files, and even pay you online from within the system. |[invoiceninja]()|	
 
 ## <a name="J"> </a>J
 
