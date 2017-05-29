@@ -89,7 +89,7 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|                       |               |					|	
+|     [Larablog](https://github.com/jeremykenedy/larablog)[P]                  |  A powerful Laravel CRUD (Create Read Update Delete) blog built on Laravel 5.1 and Bootstrap 3.5.x  |		[jeremykenedy]()		|	
 
 ## <a name="M"> </a>M
 
@@ -103,13 +103,14 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|                       |               |					|	
+|     [laravel-Nerds](https://github.com/jeremykenedy/laravel-nerds)[T] | A Laravel 5.1 ORM example with Nerds as users    |				[jeremykenedy]()	|	
 
 ## <a name="O"> </a>O
 
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
+| [Opus](https://github.com/zeeshanu/opus)	| As companies grow, it becomes difficult to manage and communicate the knowledge across different departments, Opus acts as a single source of truth; a go-to place for the employees to get knowledge. It gives enterprises the power to create anything and everything; from meeting notes, project plans, product requirements, technical documentations, orchestrate processes, work-flows and more.	| [zeeshanu]()	|
 |    [Laravel-Orchid](https://github.com/TheOrchid/Platform)[P]                   |        Orchid PHP is an application that allows you to** quickly write simple** but powerful websites and applications. The main emphasis is on rapid prototyping and different content.       |			[TheOrchid]()		|	
 
 ## <a name="P"> </a>P
@@ -138,7 +139,8 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|     [Laravel-shareable-models](https://github.com/ksassnowski/laravel-shareable-models)[P]                 | Create shareable links from your eloquent models              |	[sassnowski]()				|	
+|     [Laravel-shareable-models](https://github.com/ksassnowski/laravel-shareable-models)[P]                 | Create shareable links from your eloquent models              |	[sassnowski]()				|
+| [Laravel-Snipe-IT](https://github.com/snipe/snipe-it)[P]	| Snipe-IT is a free, open source Laravel project that makes managing IT assets easy.| [snipe]()|	
 
 ## <a name="T"> </a>T
 
