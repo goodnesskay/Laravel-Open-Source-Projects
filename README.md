@@ -1,6 +1,10 @@
 # Laravel-Open-Source-Projects
 > A Web Artisan list of categorized OPEN SOURCE PROJECTS built with Laravel PHP Framework. This repository includes a comprehensive and unlimited list of open source projects built with Laravel for Newbies to the framework or for exploration by any web artisan. Enjoy Contributing!!!
 
+## Features
+- Laravel Packages [P]
+- Tutorial Projects [T]
+
 [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F) | [G](#G) | [H](#H) | [I](#I) | [J](#J) | [K](#K) | [L](#L) | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | [X](#X) | [Y](#Y) | [Z](#Z)
 
 ## <a name="A"> </a>A
@@ -113,7 +117,7 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|                       |               |					|	
+|   [Laravel-push-notification] (https://github.com/webelightdev/laravel-push-notification) [P]                   |        Push Notifications using Laravel       |		[webelightdev]()			|	
 
 ## <a name="Q"> </a>Q
 
@@ -127,21 +131,21 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|                       |               |					|	
+|    [laravel-robots-txt](https://github.com/OwenMelbz/laravel-robots-txt) [P]                   |   Laravel 5.x helpers for a semi-automated robots.txt and meta tags            |		[owenmelbz]()			|	
 
 ## <a name="S"> </a>S
 
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|                       |               |					|	
+|     [Laravel-shareable-models](https://github.com/ksassnowski/laravel-shareable-models)[P]                 | Create shareable links from your eloquent models              |	[sassnowski]()				|	
 
 ## <a name="T"> </a>T
 
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|                       |               |					|	
+|   [Laravel-translate](https://github.com/vortgo/laravel-translate)[P]                    |         Translate system for laravel project      |		[vortgo]()			|	
 
 ## <a name="U"> </a>U
 
