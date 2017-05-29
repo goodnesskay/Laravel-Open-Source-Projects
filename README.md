@@ -127,6 +127,7 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
+| [Laravel Passport IIS](https://github.com/jeremykenedy/passportiis) [P]		| Laravel Passport Customized for Windows IIS Support | [jeremykenedy]()|
 | [Laravel Podcast Manager](https://github.com/jeremykenedy/laravelpodcast)[P]	| Laravel Podcast Manager is a complete podcast manager package for Laravel 5.3+ that enables you to manage RSS feeds for your favorite podcasts and listen to the episodes in a seamless UI. | [jeremykenedy]() |
 |   [Laravel-push-notification](https://github.com/webelightdev/laravel-push-notification) [P]                   |        Push Notifications using Laravel       |		[webelightdev]()			|	
 
