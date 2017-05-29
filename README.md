@@ -35,7 +35,7 @@
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 |    [Laravel Doptor CMS & EMS](https://github.com/doptor/doptor)[P]                   |   Business Application platform Doptor CMS & EMS            |	[Doptor]()			|	
-| [Laravel DClassifieds]() [P]	| DClassifieds Free Classifieds Script is free open source classifieds script based on Laravel 5.2 framework. | [gdinko]() |
+| [Laravel DClassifieds](https://github.com/gdinko/dclassifieds.laravel) [P]	| DClassifieds Free Classifieds Script is free open source classifieds script based on Laravel 5.2 framework. | [gdinko]() |
 
 ## <a name="E"> </a>E
 
@@ -92,6 +92,7 @@
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 |     [Larablog](https://github.com/jeremykenedy/larablog)[P]                  |  A powerful Laravel CRUD (Create Read Update Delete) blog built on Laravel 5.1 and Bootstrap 3.5.x  |		[jeremykenedy]()		|	
+| [Laravel Library Management System](https://github.com/prabhakar267/library-management-system) [P] 	| An automated system to manage a public library. Admin panel for librarians to control and manage the system easily through an interactive interface. | [prabhakar267]() |
 
 ## <a name="M"> </a>M
 
