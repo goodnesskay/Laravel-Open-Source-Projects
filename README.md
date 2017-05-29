@@ -117,7 +117,7 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|   [Laravel-push-notification] (https://github.com/webelightdev/laravel-push-notification) [P]                   |        Push Notifications using Laravel       |		[webelightdev]()			|	
+|   [Laravel-push-notification](https://github.com/webelightdev/laravel-push-notification) [P]                   |        Push Notifications using Laravel       |		[webelightdev]()			|	
 
 ## <a name="Q"> </a>Q
 
