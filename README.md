@@ -24,6 +24,7 @@
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 |   [Laravel-Backpack](https://github.com/laravel-backpack/base) [P]                   |   Backpack helps you build custom admin panels 10x faster.           |		[Laravel-Backpack]()			|	
 | [Laravel Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate) [P] 	| This project is to be served as a basis for a fully fledged web application, it is constantly evolving and has many contributors	| [rappasoft]() |
+| [Laravel Browser Notification](https://github.com/bpocallaghan/notify) [P] | Notify alert boxes to the browser with sound and font awesome icons and give it a timeout to fly out. Works great to notify the user after a successfull action (CRUD). Flash the information from Laravel or create multiple from javascript. | [bpocallaghan]() |
 
 ## <a name="C"> </A>C
 
@@ -96,6 +97,7 @@
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 | [LaraAdmin](https://github.com/dwijitsolutions/laraadmin) [P]	| LaraAdmin is a Open source Laravel Admin Panel / CMS which can be used as Admin Backend, Data Management Tool or CRM boilerplate for Laravel and saves at least 40% of development time over Admin Panels. | [dwijitsolutions]()|
 |     [Larablog](https://github.com/jeremykenedy/larablog)[P]                  |  A powerful Laravel CRUD (Create Read Update Delete) blog built on Laravel 5.1 and Bootstrap 3.5.x  |		[jeremykenedy]()		|	
+| [Laracogs](https://github.com/YABhq/Laracogs) [P] | Laracogs is a package which can be added to any Laravel 5.1+ app which comes with a handful of commands and helpers to speed up your app development. Laracogs comes with a clean cut starter kit to initialize your app with authentication, admins, teams and all their views. | [Yabhq]() |
 | [Laravel Library Management System](https://github.com/prabhakar267/library-management-system) [P] 	| An automated system to manage a public library. Admin panel for librarians to control and manage the system easily through an interactive interface. | [prabhakar267]() |
 | [Laravel Podcast](https://github.com/jeremykenedy/laravel-podcast) [P] | Built on Laravel 5.3, Bootstrap 3.6, and easily customizable with SASS. Change the entire theme with by the single color variable $baseThemeColor listed in /resources/assets/sass/_variables.scss and make it your customized version instantly. Includes form input validation, error handling, routing, ajax forms, configured gulpfile, and more. | [jeremykenedy]() |
 
@@ -129,8 +131,9 @@
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 | [Laravel Passport IIS](https://github.com/jeremykenedy/passportiis) [P]		| Laravel Passport Customized for Windows IIS Support | [jeremykenedy]()|
+| [Laravel PHP Map](https://github.com/PHPMap/PHPMap) [P] | PHPMap is an interactive map of PHP-Developers around the world. You will be able to organize meetups & usergroups. work on projects together with developers around you or simply have a look, who´s next to you. | [PHPMap]()|
 | [Laravel Podcast Manager](https://github.com/jeremykenedy/laravelpodcast)[P]	| Laravel Podcast Manager is a complete podcast manager package for Laravel 5.3+ that enables you to manage RSS feeds for your favorite podcasts and listen to the episodes in a seamless UI. | [jeremykenedy]() |
-|   [Laravel-push-notification](https://github.com/webelightdev/laravel-push-notification) [P]                   |        Push Notifications using Laravel       |		[webelightdev]()			|	
+|   [Laravel-push-notification](https://github.com/webelightdev/laravel-push-notification) [P]  |   Push Notifications using Laravel       |		[webelightdev]()			|	
 
 ## <a name="Q"> </a>Q
 
