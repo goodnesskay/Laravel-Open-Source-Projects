@@ -145,6 +145,7 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
+| [Laravel Talk](https://github.com/nahid/talk) | Talk is a Laravel 5 based user conversation (inbox) system with realtime messaging | [nahid]()|
 |   [Laravel-translate](https://github.com/vortgo/laravel-translate)[P]                    |         Translate system for laravel project      |		[vortgo]()			|	
 
 ## <a name="U"> </a>U
