@@ -35,6 +35,7 @@
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 | [Cachet](https://github.com/cachethq/Cachet) [P] | Cachet is a beautiful and powerful open source status page system. | [CachetHQ]()|
 |       [Laravel Church Sermons App](https://github.com/dameety/laravel-church-sermons-app) [P]                |      Make your sermons available for members.         |	[dameety]()				|
+| [Laravel Composer Security](https://github.com/padosoft/laravel-composer-security) [P] | Laravel command to test security vulnerabilities in your composer files and send report to your mail or output on screen. You can schedule command for daily o weekly report. | [padosoft]() |
 | [Laravel Corcel](http://github.com/jgrossi/corcel) [P] | Laravel is the most used PHP framework, and WordPress is the most used CMS in the world. If you want to have both sides in a unique application just use Corcel. You can create your administration panel using WordPress, with users, custom fields, custom post types, etc, but getting all the information inside your Laravel app, with custom models reading directly from the WordPress database. | [corcel]() |	
 | 		[Laravel Critter App](https://github.com/msurguy/critterapp) [T] | Application that resembles Twitter-like functionality | [msurguy]() |
 
@@ -118,6 +119,7 @@
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 |   [Laravel Microweber CMS](https://github.com/microweber/microweber) [P]         |     Drag and Drop CMS and online shop    | [microweber]() |	
+| [Laravel Mobilizator](https://github.com/philippejadin/Mobilizator) [P] | Mobilize crowds efficiently. Allow anyone to create a collaborative group. No admins involved in the process. Manage communication, decision making, membership, files and events. | [philippejadin]() |
 
 ## <a name="N"> </a>N
 
