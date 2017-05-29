@@ -26,6 +26,7 @@
 | [Laravel Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate) [P] 	| This project is to be served as a basis for a fully fledged web application, it is constantly evolving and has many contributors	| [rappasoft]() |
 | [Laravel Browser Notification](https://github.com/bpocallaghan/notify) [P] | Notify alert boxes to the browser with sound and font awesome icons and give it a timeout to fly out. Works great to notify the user after a successfull action (CRUD). Flash the information from Laravel or create multiple from javascript. | [bpocallaghan]() |
 | [Laravel Backbone-Todo-MVC](https://github.com/msurguy/LaravelBackboneTodoMVC) [T] | Using Laravel 3 and Backbone.js framework for simple To-do manager | [msurguy]()|
+| [Laravel Backbone-Pagination](https://github.com/msurguy/laravel-backbone-pagination) [T] | Awesome in-place pagination using Laravel + Backbone, also a tutorial | [msurguy]()|
 
 ## <a name="C"> </A>C
 
@@ -159,8 +160,10 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
+| [Laravel SEO](https://github.com/msurguy/laravel-seo) [T] | Demo application for an admin panel and a solution for managing SEO content, also with a tutorial | [msurguy]()|
 |     [Laravel-shareable-models](https://github.com/ksassnowski/laravel-shareable-models)[P]                 | Create shareable links from your eloquent models              |	[sassnowski]()				|
 | [Laravel Shila Backend](https://github.com/itobuz/shila-laravel-backend) [P] | This is a laravel shopping cart cms with stripe payment gateway integration. This project has role and permission creation option with page, post and product adding functionality. You can see list of orders also can refund orders. | [itobuz]() |
+| [Laravel Smart Search](https://github.com/msurguy/laravel-smart-search) [T] | Demo application and a tutorial for nice search with autocomplete | [msurguy]() |
 | [Laravel-Snipe-IT](https://github.com/snipe/snipe-it)[P]	| Snipe-IT is a free, open source Laravel project that makes managing IT assets easy.| [snipe]()|
 | [Laravel Support Ticket](https://github.com/ammezie/support-ticket) [P] | A support ticket application built using the Laravel framework.| [ammezie]()|	
 
