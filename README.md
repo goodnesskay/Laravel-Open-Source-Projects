@@ -12,7 +12,7 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|                        |               |					|	
+| [Laravel-Apiato](https://github.com/apiato/apiato)[P]                    |       apiato is a flawless framework for building scalable and testable API-Centric Applications with PHP.        |	[apiato]()				|	
 
 ## <a name="B"> </a>B
 
@@ -110,7 +110,7 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|                       |               |					|	
+|    [Laravel-Orchid](https://github.com/TheOrchid/Platform)[P]                   |        Orchid PHP is an application that allows you to** quickly write simple** but powerful websites and applications. The main emphasis is on rapid prototyping and different content.       |			[TheOrchid]()		|	
 
 ## <a name="P"> </a>P
 
@@ -146,6 +146,7 @@
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 | [Laravel Talk](https://github.com/nahid/talk) | Talk is a Laravel 5 based user conversation (inbox) system with realtime messaging | [nahid]()|
+| [Laravel Tech Detector](https://github.com/ppshobi/tech-detector)[P] | The goal of Technology Detector is to help web developers, Security researchers, Domain Buyers and web designers find out what technologies web pages are using which might help them to decide what technologies to implement themselves.This application can track country, state, city, latitude and longitude of an IP address. | [ppshobi]() | 
 |[Laravel-Themevel](https://github.com/Shipu/themevel) |	Themevel is a Laravel 5 theme and asset management package. You can easily integrate this package with any Laravel based project.| [Shipu]()	|
 |   [Laravel-translate](https://github.com/vortgo/laravel-translate)[P]                    |         Translate system for laravel project      |		[vortgo]()			|	
 
