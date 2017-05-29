@@ -19,7 +19,7 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|                       |               |					|	
+|   [Laravel-Backpack](https://github.com/laravel-backpack/base) [P]                   |   Backpack helps you build custom admin panels 10x faster.           |		[Laravel-Backpack]()			|	
 
 ## <a name="C"> </A>C
 
@@ -111,6 +111,8 @@
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 | [Opus](https://github.com/zeeshanu/opus)	| As companies grow, it becomes difficult to manage and communicate the knowledge across different departments, Opus acts as a single source of truth; a go-to place for the employees to get knowledge. It gives enterprises the power to create anything and everything; from meeting notes, project plans, product requirements, technical documentations, orchestrate processes, work-flows and more.	| [zeeshanu]()	|
+| [Laravel-OrgManager](https://github.com/m1guelpf/orgmanager)[P] |
+A Github Organization Invite Generator build using Laravel | [orgmanager]()	|
 |    [Laravel-Orchid](https://github.com/TheOrchid/Platform)[P]                   |        Orchid PHP is an application that allows you to** quickly write simple** but powerful websites and applications. The main emphasis is on rapid prototyping and different content.       |			[TheOrchid]()		|	
 
 ## <a name="P"> </a>P
@@ -148,6 +150,7 @@
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 | [Laravel Talk](https://github.com/nahid/talk) | Talk is a Laravel 5 based user conversation (inbox) system with realtime messaging | [nahid]()|
+| [Laravel-Tasks](https://github.com/jeremykenedy/laravel-tasks)[T] | An app of tasks lists for each individual user. Built on Laravel 5.2, using 5.2 authentication and middleware. This has robust verbose examples using Laravel best practices.| [jeremykenedy]()	|
 | [Laravel Tech Detector](https://github.com/ppshobi/tech-detector)[P] | The goal of Technology Detector is to help web developers, Security researchers, Domain Buyers and web designers find out what technologies web pages are using which might help them to decide what technologies to implement themselves.This application can track country, state, city, latitude and longitude of an IP address. | [ppshobi]() | 
 |[Laravel-Themevel](https://github.com/Shipu/themevel) |	Themevel is a Laravel 5 theme and asset management package. You can easily integrate this package with any Laravel based project.| [Shipu]()	|
 |   [Laravel-translate](https://github.com/vortgo/laravel-translate)[P]                    |         Translate system for laravel project      |		[vortgo]()			|	
@@ -192,7 +195,7 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|                       |               |					|	
+|   [Laravel Zero](https://github.com/nunomaduro/laravel-zero)[P]                    |       Laravel Zero provides an elegant starting point for your next Laravel Console Application        |	[nunomaduro]()				|	
 
 
 
