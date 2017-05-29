@@ -135,7 +135,8 @@ A Github Organization Invite Generator build using Laravel | [orgmanager]()	|
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|    [laravel-robots-txt](https://github.com/OwenMelbz/laravel-robots-txt) [P]                   |   Laravel 5.x helpers for a semi-automated robots.txt and meta tags            |		[owenmelbz]()			|	
+|    [laravel-robots-txt](https://github.com/OwenMelbz/laravel-robots-txt) [P]                   |   Laravel 5.x helpers for a semi-automated robots.txt and meta tags            |		[owenmelbz]()			|
+| [Laravel Roles](https://github.com/jeremykenedy/laravel-roles)[P] 	| A Powerful package for handling roles and permissions in Laravel 5.4	| [jeremykenedy]()|	
 
 ## <a name="S"> </a>S
 
@@ -161,7 +162,7 @@ A Github Organization Invite Generator build using Laravel | [orgmanager]()	|
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|                       |               |					|	
+|    [Laravel Users](https://github.com/jeremykenedy/laravel-users) [P]                   |   A Users Management Package that includes all necessary routes, views, models, and controllers for a user management dashboard and associated pages for managing Laravels built in user scaffolding. Built for Laravel 5.2, 5.3, and 5.4+.          |		[jeremykenedy]()			|	
 
 ## <a name="V"> </a>V
 
