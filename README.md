@@ -20,13 +20,14 @@
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 |   [Laravel-Backpack](https://github.com/laravel-backpack/base) [P]                   |   Backpack helps you build custom admin panels 10x faster.           |		[Laravel-Backpack]()			|	
+| [Laravel Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate) [P] 	| This project is to be served as a basis for a fully fledged web application, it is constantly evolving and has many contributors	| [rappasoft]() |
 
 ## <a name="C"> </A>C
 
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|                       |               |					|	
+|       [Laravel Church Sermons App](https://github.com/dameety/laravel-church-sermons-app) [P]                |      Make your sermons available for members.         |	[dameety]()				|	
 
 ## <a name="D"> </a>D
 
@@ -103,7 +104,8 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|     [laravel-Nerds](https://github.com/jeremykenedy/laravel-nerds)[T] | A Laravel 5.1 ORM example with Nerds as users    |				[jeremykenedy]()	|	
+|     [laravel-Nerds](https://github.com/jeremykenedy/laravel-nerds)[T] | A Laravel 5.1 ORM example with Nerds as users    |				[jeremykenedy]()	|
+| [Laravel Newsletter Manager](http://github.com/arvernester/newsletter) [P] |	Newsletter manager is application to manage templates, subscribers, and newsletter built with Laravel Framework. This application using built-in features by Laravel like as Scout and Mail Queue, etc. | [arvernester]() |	
 
 ## <a name="O"> </a>O
 
