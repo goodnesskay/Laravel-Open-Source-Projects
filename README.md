@@ -35,6 +35,7 @@
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 |    [Laravel Doptor CMS & EMS](https://github.com/doptor/doptor)[P]                   |   Business Application platform Doptor CMS & EMS            |	[Doptor]()			|	
+| [Laravel DClassifieds]() [P]	| DClassifieds Free Classifieds Script is free open source classifieds script based on Laravel 5.2 framework. | [gdinko]() |
 
 ## <a name="E"> </a>E
 
