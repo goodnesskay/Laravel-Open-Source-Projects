@@ -91,6 +91,7 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
+| [LaraAdmin](https://github.com/dwijitsolutions/laraadmin) [P]	| LaraAdmin is a Open source Laravel Admin Panel / CMS which can be used as Admin Backend, Data Management Tool or CRM boilerplate for Laravel and saves at least 40% of development time over Admin Panels. | [dwijitsolutions]()|
 |     [Larablog](https://github.com/jeremykenedy/larablog)[P]                  |  A powerful Laravel CRUD (Create Read Update Delete) blog built on Laravel 5.1 and Bootstrap 3.5.x  |		[jeremykenedy]()		|	
 | [Laravel Library Management System](https://github.com/prabhakar267/library-management-system) [P] 	| An automated system to manage a public library. Admin panel for librarians to control and manage the system easily through an interactive interface. | [prabhakar267]() |
 
@@ -176,7 +177,7 @@ A Github Organization Invite Generator build using Laravel | [orgmanager]()	|
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|                       |               |					|	
+|   [Laravel Voyager](https://github.com/the-control-group/voyager) [P]                    |     Voyager is a Laravel Admin package. With Voyager you can have an Admin setup for your laravel application in seconds. Voyager is fully extendible and it has a beautiful User Interface.          |	[the-control-group]()				|	
 
 ## <a name="W"> </a>W
 
