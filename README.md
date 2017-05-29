@@ -25,6 +25,7 @@
 |   [Laravel-Backpack](https://github.com/laravel-backpack/base) [P]                   |   Backpack helps you build custom admin panels 10x faster.           |		[Laravel-Backpack]()			|	
 | [Laravel Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate) [P] 	| This project is to be served as a basis for a fully fledged web application, it is constantly evolving and has many contributors	| [rappasoft]() |
 | [Laravel Browser Notification](https://github.com/bpocallaghan/notify) [P] | Notify alert boxes to the browser with sound and font awesome icons and give it a timeout to fly out. Works great to notify the user after a successfull action (CRUD). Flash the information from Laravel or create multiple from javascript. | [bpocallaghan]() |
+| [Laravel Backbone-Todo-MVC](https://github.com/msurguy/LaravelBackboneTodoMVC) [T] | Using Laravel 3 and Backbone.js framework for simple To-do manager | [msurguy]()|
 
 ## <a name="C"> </A>C
 
@@ -32,6 +33,7 @@
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 |       [Laravel Church Sermons App](https://github.com/dameety/laravel-church-sermons-app) [P]                |      Make your sermons available for members.         |	[dameety]()				|	
+| 		[Laravel Critter App](https://github.com/msurguy/critterapp) [T] | Application that resembles Twitter-like functionality | [msurguy]() |
 
 ## <a name="D"> </a>D
 
@@ -53,7 +55,7 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|                       |               |					|	
+|  [Laravel-facebook-login](https://github.com/msurguy/laravel-facebook-login) [T]         |  Tutorial and demo app for Integrating "Login with Facebook" in a Laravel application  |		[msurguy]()			|	
 
 ## <a name="G"> </a>G
 
@@ -100,6 +102,7 @@
 | [Laracogs](https://github.com/YABhq/Laracogs) [P] | Laracogs is a package which can be added to any Laravel 5.1+ app which comes with a handful of commands and helpers to speed up your app development. Laracogs comes with a clean cut starter kit to initialize your app with authentication, admins, teams and all their views. | [Yabhq]() |
 | [Laravel Library Management System](https://github.com/prabhakar267/library-management-system) [P] 	| An automated system to manage a public library. Admin panel for librarians to control and manage the system easily through an interactive interface. | [prabhakar267]() |
 | [Laravel Podcast](https://github.com/jeremykenedy/laravel-podcast) [P] | Built on Laravel 5.3, Bootstrap 3.6, and easily customizable with SASS. Change the entire theme with by the single color variable $baseThemeColor listed in /resources/assets/sass/_variables.scss and make it your customized version instantly. Includes form input validation, error handling, routing, ajax forms, configured gulpfile, and more. | [jeremykenedy]() |
+| [Laravel-linkedin-login](https://github.com/msurguy/laravel-linkedin-login) [T] | Pulling user info from LinkedIn in Laravel, comes with a demo and a tutorial | [msurguy]() |
 
 ## <a name="M"> </a>M
 
