@@ -2,7 +2,7 @@
 > A Web Artisan list of categorized OPEN SOURCE PROJECTS built with Laravel PHP Framework. This repository includes a comprehensive and unlimited list of open source projects built with Laravel for Newbies to the framework or for exploration by any web artisan. Enjoy Contributing!!!
 
 ## Features
-- Laravel Packages [P]
+- Laravel Packages/Projects[P]
 - Tutorial Projects [T]
 
 [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F) | [G](#G) | [H](#H) | [I](#I) | [J](#J) | [K](#K) | [L](#L) | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | [X](#X) | [Y](#Y) | [Z](#Z)
@@ -33,7 +33,7 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|                       |               |					|	
+|    [Laravel Doptor CMS & EMS](https://github.com/doptor/doptor)[P]                   |   Business Application platform Doptor CMS & EMS            |	[Doptor]()			|	
 
 ## <a name="E"> </a>E
 
@@ -135,6 +135,7 @@ A Github Organization Invite Generator build using Laravel | [orgmanager]()	|
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
+| [Laravel-ReadMarvel](https://github.com/ivan-atanasov/readmarvel)[P]	| ReadMarvel is a fan made website. It is built entirely on Laravel 5. All data is provided by Marvel through their public Marvel API. 	|	[ivan-atanasov]()	|
 |    [laravel-robots-txt](https://github.com/OwenMelbz/laravel-robots-txt) [P]                   |   Laravel 5.x helpers for a semi-automated robots.txt and meta tags            |		[owenmelbz]()			|
 | [Laravel Roles](https://github.com/jeremykenedy/laravel-roles)[P] 	| A Powerful package for handling roles and permissions in Laravel 5.4	| [jeremykenedy]()|	
 
@@ -144,7 +145,8 @@ A Github Organization Invite Generator build using Laravel | [orgmanager]()	|
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 |     [Laravel-shareable-models](https://github.com/ksassnowski/laravel-shareable-models)[P]                 | Create shareable links from your eloquent models              |	[sassnowski]()				|
-| [Laravel-Snipe-IT](https://github.com/snipe/snipe-it)[P]	| Snipe-IT is a free, open source Laravel project that makes managing IT assets easy.| [snipe]()|	
+| [Laravel-Snipe-IT](https://github.com/snipe/snipe-it)[P]	| Snipe-IT is a free, open source Laravel project that makes managing IT assets easy.| [snipe]()|
+| [Laravel Support Ticket](https://github.com/ammezie/support-ticket) [P] | A support ticket application built using the Laravel framework.| [ammezie]()|	
 
 ## <a name="T"> </a>T
 
