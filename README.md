@@ -55,7 +55,7 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|                       |               |					|	
+|    [Laravel GitScrum](https://github.com/renatomarinho/GitScrum) [P]              |    GitScrum with the GPLv3 license in Github, I invite everyone to participate. GitScrum is developed with Laravel 5.3 and is intended to be an application to help teams use Git version control and the Scrum framework with support for daily task management.           |		[renatomarinho]()			|	
 
 ## <a name="H"> </a>H
 
@@ -147,6 +147,7 @@ A Github Organization Invite Generator build using Laravel | [orgmanager]()	|
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 |     [Laravel-shareable-models](https://github.com/ksassnowski/laravel-shareable-models)[P]                 | Create shareable links from your eloquent models              |	[sassnowski]()				|
+| [Laravel Shila Backend](https://github.com/itobuz/shila-laravel-backend) [P] | This is a laravel shopping cart cms with stripe payment gateway integration. This project has role and permission creation option with page, post and product adding functionality. You can see list of orders also can refund orders. | [itobuz]() |
 | [Laravel-Snipe-IT](https://github.com/snipe/snipe-it)[P]	| Snipe-IT is a free, open source Laravel project that makes managing IT assets easy.| [snipe]()|
 | [Laravel Support Ticket](https://github.com/ammezie/support-ticket) [P] | A support ticket application built using the Laravel framework.| [ammezie]()|	
 
