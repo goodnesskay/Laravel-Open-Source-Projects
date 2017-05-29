@@ -15,6 +15,7 @@
 | [Laravel-Apiato](https://github.com/apiato/apiato)[P]                    |       apiato is a flawless framework for building scalable and testable API-Centric Applications with PHP.        |	[apiato]()				|	
 | [Laravel-Auth](https://github.com/jeremykenedy/laravel-auth) [P]	| Laravel 5.2 with user authentication, registration with email confirmation, social media authentication, password recovery, and captcha protection.	| [jeremykenedy]() |
 | [laravel-admin](https://github.com/jeremykenedy/laravel-admin) [P] | A Laravel 5.2.x, Bootstrap 3.5.x, and AdminLTE 2.3.x. project. |  [jeremykenedy]() |
+| [Laravel Angular Time Tracker](https://github.com/jeremykenedy/laravel-time-tracker) [P] | Laravel Angular Time Tracker is a simple time tracking application built on Laravel 5.2, Angular 2, and Bootstrap 3. It uses Laravel's built in Auhentication, MySQL, Angular Bootstrap 1.3., Angular Resource 1.5. ngResource, jQuery 2.2.4 and Moment.js 2.13.* | [jeremykenedy]() |
 
 ## <a name="B"> </a>B
 
