@@ -33,6 +33,7 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
+| [Cachet](https://github.com/cachethq/Cachet) [P] | Cachet is a beautiful and powerful open source status page system. | [CachetHQ]()|
 |       [Laravel Church Sermons App](https://github.com/dameety/laravel-church-sermons-app) [P]                |      Make your sermons available for members.         |	[dameety]()				|	
 | 		[Laravel Critter App](https://github.com/msurguy/critterapp) [T] | Application that resembles Twitter-like functionality | [msurguy]() |
 
@@ -56,7 +57,9 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|  [Laravel-facebook-login](https://github.com/msurguy/laravel-facebook-login) [T]         |  Tutorial and demo app for Integrating "Login with Facebook" in a Laravel application  |		[msurguy]()			|	
+|  [Laravel-facebook-login](https://github.com/msurguy/laravel-facebook-login) [T]         |  Tutorial and demo app for Integrating "Login with Facebook" in a Laravel application  |		[msurguy]()			|
+| [Laravel Flarum](https://github.com/flarum/core) [P] | Flarum is the next-generation forum software that makes online discussion fun. It's simple, fast, and free. | [flarum]() |
+| [Laravel-Flyer-Generator](https://github.com/msurguy/missingpetflyer) [T] | A flyer generator with AJAX upload | [msurguy]() |	
 
 ## <a name="G"> </a>G
 
@@ -163,6 +166,7 @@
 | [Laravel SEO](https://github.com/msurguy/laravel-seo) [T] | Demo application for an admin panel and a solution for managing SEO content, also with a tutorial | [msurguy]()|
 |     [Laravel-shareable-models](https://github.com/ksassnowski/laravel-shareable-models)[P]                 | Create shareable links from your eloquent models              |	[sassnowski]()				|
 | [Laravel Shila Backend](https://github.com/itobuz/shila-laravel-backend) [P] | This is a laravel shopping cart cms with stripe payment gateway integration. This project has role and permission creation option with page, post and product adding functionality. You can see list of orders also can refund orders. | [itobuz]() |
+| [Laravel Shop-Menu](https://github.com/msurguy/laravel-shop-menu) [T] | Drag and Drop Menu manager like Wordpress, tutorial being written | [msurguy]() |
 | [Laravel Smart Search](https://github.com/msurguy/laravel-smart-search) [T] | Demo application and a tutorial for nice search with autocomplete | [msurguy]() |
 | [Laravel-Snipe-IT](https://github.com/snipe/snipe-it)[P]	| Snipe-IT is a free, open source Laravel project that makes managing IT assets easy.| [snipe]()|
 | [Laravel Support Ticket](https://github.com/ammezie/support-ticket) [P] | A support ticket application built using the Laravel framework.| [ammezie]()|	
@@ -176,6 +180,8 @@
 | [Laravel-Tasks](https://github.com/jeremykenedy/laravel-tasks)[T] | An app of tasks lists for each individual user. Built on Laravel 5.2, using 5.2 authentication and middleware. This has robust verbose examples using Laravel best practices.| [jeremykenedy]()	|
 | [Laravel Tech Detector](https://github.com/ppshobi/tech-detector)[P] | The goal of Technology Detector is to help web developers, Security researchers, Domain Buyers and web designers find out what technologies web pages are using which might help them to decide what technologies to implement themselves.This application can track country, state, city, latitude and longitude of an IP address. | [ppshobi]() | 
 |[Laravel-Themevel](https://github.com/Shipu/themevel) |	Themevel is a Laravel 5 theme and asset management package. You can easily integrate this package with any Laravel based project.| [Shipu]()	|
+| [Timegrid](https://github.com/timegridio/timegrid) [P] | Timegrid helps contractors and customers to find the perfect meeting time through online appointments. |
+[timegridio]() |
 |   [Laravel-translate](https://github.com/vortgo/laravel-translate)[P]                    |         Translate system for laravel project      |		[vortgo]()			|	
 
 ## <a name="U"> </a>U
