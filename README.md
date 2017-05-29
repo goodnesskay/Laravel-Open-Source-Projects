@@ -1,5 +1,5 @@
 # Laravel-Open-Source-Projects
-> A Web Artisan list of categorized OPEN SOURCE PROJECTS built with Laravel PHP Framework. This repository includes a comprehensive and unlimited list of open source projects built with Laravel for Newbies to the framework or for exploration by any web artisan. Enjoy Contributing!!!
+> A Web Artisan list of categorized OPEN SOURCE PROJECTS built with Laravel PHP Framework. This repository includes a comprehensive and unlimited list of open source projects built with Laravel for Newbies to the framework or for exploration by any web artisan. Enjoy Pushing Codes!!!
 
 ## Features
 - Laravel Packages/Projects[P]
@@ -13,6 +13,8 @@
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 | [Laravel-Apiato](https://github.com/apiato/apiato)[P]                    |       apiato is a flawless framework for building scalable and testable API-Centric Applications with PHP.        |	[apiato]()				|	
+| [Laravel-Auth](https://github.com/jeremykenedy/laravel-auth) [P]	| Laravel 5.2 with user authentication, registration with email confirmation, social media authentication, password recovery, and captcha protection.	| [jeremykenedy]() |
+| [laravel-admin](https://github.com/jeremykenedy/laravel-admin) [P] | A Laravel 5.2.x, Bootstrap 3.5.x, and AdminLTE 2.3.x. project. |  [jeremykenedy]() |
 
 ## <a name="B"> </a>B
 
@@ -94,7 +96,7 @@
 | [LaraAdmin](https://github.com/dwijitsolutions/laraadmin) [P]	| LaraAdmin is a Open source Laravel Admin Panel / CMS which can be used as Admin Backend, Data Management Tool or CRM boilerplate for Laravel and saves at least 40% of development time over Admin Panels. | [dwijitsolutions]()|
 |     [Larablog](https://github.com/jeremykenedy/larablog)[P]                  |  A powerful Laravel CRUD (Create Read Update Delete) blog built on Laravel 5.1 and Bootstrap 3.5.x  |		[jeremykenedy]()		|	
 | [Laravel Library Management System](https://github.com/prabhakar267/library-management-system) [P] 	| An automated system to manage a public library. Admin panel for librarians to control and manage the system easily through an interactive interface. | [prabhakar267]() |
-| [Laravel Podcast]() [P] | Built on Laravel 5.3, Bootstrap 3.6, and easily customizable with SASS. Change the entire theme with by the single color variable $baseThemeColor listed in /resources/assets/sass/_variables.scss and make it your customized version instantly. Includes form input validation, error handling, routing, ajax forms, configured gulpfile, and more. | [jeremykenedy]() |
+| [Laravel Podcast](https://github.com/jeremykenedy/laravel-podcast) [P] | Built on Laravel 5.3, Bootstrap 3.6, and easily customizable with SASS. Change the entire theme with by the single color variable $baseThemeColor listed in /resources/assets/sass/_variables.scss and make it your customized version instantly. Includes form input validation, error handling, routing, ajax forms, configured gulpfile, and more. | [jeremykenedy]() |
 
 ## <a name="M"> </a>M
 
