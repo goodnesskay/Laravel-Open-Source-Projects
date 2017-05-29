@@ -133,7 +133,8 @@ A Github Organization Invite Generator build using Laravel | [orgmanager]()	|
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|                       |               |					|	
+|     [Laravel-Quiz](https://github.com/LaravelDaily/Laraquiz-QuickAdmin) [P]                 |    It is a demo project for demonstrating what can be generated with QuickAdminPanel tool. LaraQuiz was mostly generated with QuickAdmin except for some custom code.
+It's an open-source version of online Laravel quiz at LaraQuiz.com - but the system can be used for any quiz project, you just fill in different topics and questions.           |	[LaravelDaily]()				|	
 
 ## <a name="R"> </a>R
 
