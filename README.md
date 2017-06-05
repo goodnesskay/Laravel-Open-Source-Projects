@@ -138,6 +138,7 @@
 | [Opus](https://github.com/zeeshanu/opus)	| As companies grow, it becomes difficult to manage and communicate the knowledge across different departments, Opus acts as a single source of truth; a go-to place for the employees to get knowledge. It gives enterprises the power to create anything and everything; from meeting notes, project plans, product requirements, technical documentations, orchestrate processes, work-flows and more.	| [zeeshanu]()	|
 | [Laravel-OrgManager](https://github.com/m1guelpf/orgmanager)[P] | A Github Organization Invite Generator build using Laravel | [orgmanager]()	|
 |    [Laravel-Orchid](https://github.com/TheOrchid/Platform)[P]                   |        Orchid PHP is an application that allows you to** quickly write simple** but powerful websites and applications. The main emphasis is on rapid prototyping and different content.       |			[TheOrchid]()		|	
+| [Origin CMS](https://github.com/akhileshdarjee/origin-cms)	| Origin CMS for Laravel 5.2.* to kickstart your web applications.	| [akhileshdarjee]()	|
 
 ## <a name="P"> </a>P
 
