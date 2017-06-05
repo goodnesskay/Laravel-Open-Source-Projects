@@ -135,6 +135,7 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
+| [October CMS](https://octobercms.com/) | October is a free, open-source, self-hosted CMS platform based on the Laravel PHP Framework. A simple and modular CMS that grows with you, with a precise and beautiful interface that comes as second nature. | [octobercms](https://github.com/octobercms)
 | [Opus](https://github.com/zeeshanu/opus)	| As companies grow, it becomes difficult to manage and communicate the knowledge across different departments, Opus acts as a single source of truth; a go-to place for the employees to get knowledge. It gives enterprises the power to create anything and everything; from meeting notes, project plans, product requirements, technical documentations, orchestrate processes, work-flows and more.	| [zeeshanu]()	|
 | [Laravel-OrgManager](https://github.com/m1guelpf/orgmanager)[P] | A Github Organization Invite Generator build using Laravel | [orgmanager]()	|
 |    [Laravel-Orchid](https://github.com/TheOrchid/Platform)[P]                   |        Orchid PHP is an application that allows you to** quickly write simple** but powerful websites and applications. The main emphasis is on rapid prototyping and different content.       |			[TheOrchid]()		|	
