@@ -181,6 +181,7 @@
 | [Laravel Smart Search](https://github.com/msurguy/laravel-smart-search) [T] | Demo application and a tutorial for nice search with autocomplete | [msurguy]() |
 | [Laravel-Snipe-IT](https://github.com/snipe/snipe-it)[P]	| Snipe-IT is a free, open source Laravel project that makes managing IT assets easy.| [snipe]()|
 | [Laravel Support Ticket](https://github.com/ammezie/support-ticket) [P] | A support ticket application built using the Laravel framework.| [ammezie]()|	
+| [Laravel Skeleton](https://github.com/rdehnhardt/skeleton) [P] | Laravel Skeleton Application| [rdehnhardt]()|	
 
 ## <a name="T"> </a>T
 
