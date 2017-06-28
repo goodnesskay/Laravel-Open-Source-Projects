@@ -65,6 +65,7 @@
 | [Laravel Flarum](https://github.com/flarum/core) [P] | Flarum is the next-generation forum software that makes online discussion fun. It's simple, fast, and free. | [flarum]() |
 | [Laravel-Flyer-Generator](https://github.com/msurguy/missingpetflyer) [T] | A flyer generator with AJAX upload | [msurguy]() |	
 | [Laravel Flash Alert](https://github.com/bpocallaghan/alert) [P] | A helper package to flash a bootstrap alert to the browser via a Facade or a helper function.| [bpocallaghan]() |
+| [Laravel FTP](https://github.com/Cannonb4ll/LaravelFtp) [P] | A FTP helper package for Laravel | [cannonb4ll]() |
 
 
 ## <a name="G"> </a>G
