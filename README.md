@@ -152,6 +152,7 @@
 | [Laravel Passport IIS](https://github.com/jeremykenedy/passportiis) [P]		| Laravel Passport Customized for Windows IIS Support | [jeremykenedy]()|
 | [Laravel PHP Map](https://github.com/PHPMap/PHPMap) [P] | PHPMap is an interactive map of PHP-Developers around the world. You will be able to organize meetups & usergroups. work on projects together with developers around you or simply have a look, who´s next to you. | [PHPMap]()|
 | [Laravel Podcast Manager](https://github.com/jeremykenedy/laravelpodcast)[P]	| Laravel Podcast Manager is a complete podcast manager package for Laravel 5.3+ that enables you to manage RSS feeds for your favorite podcasts and listen to the episodes in a seamless UI. | [jeremykenedy]() |
+| [Laravel Property Bag](https://github.com/zachleigh/laravel-property-bag) [P] | Easily add a property bag to any Laravel model to store model options and settings. | [zachleigh]() |
 |   [Laravel-push-notification](https://github.com/webelightdev/laravel-push-notification) [P]  |   Push Notifications using Laravel       |		[webelightdev]()			|	
 
 ## <a name="Q"> </a>Q
