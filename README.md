@@ -23,6 +23,7 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
+| [LaraBug](https://github.com/Cannonb4ll/LaraBug) [P] | Error reporting tool for Laravel | [cannonb4ll]()|
 |   [Laravel-Backpack](https://github.com/laravel-backpack/base) [P]                   |   Backpack helps you build custom admin panels 10x faster.           |		[Laravel-Backpack]()			|	
 | [Laravel Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate) [P] 	| This project is to be served as a basis for a fully fledged web application, it is constantly evolving and has many contributors	| [rappasoft]() |
 | [Laravel Browser Notification](https://github.com/bpocallaghan/notify) [P] | Notify alert boxes to the browser with sound and font awesome icons and give it a timeout to fly out. Works great to notify the user after a successfull action (CRUD). Flash the information from Laravel or create multiple from javascript. | [bpocallaghan]() |
