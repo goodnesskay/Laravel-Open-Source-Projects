@@ -40,6 +40,7 @@
 | [Laravel Composer Security](https://github.com/padosoft/laravel-composer-security) [P] | Laravel command to test security vulnerabilities in your composer files and send report to your mail or output on screen. You can schedule command for daily o weekly report. | [padosoft]() |
 | [Laravel Corcel](http://github.com/jgrossi/corcel) [P] | Laravel is the most used PHP framework, and WordPress is the most used CMS in the world. If you want to have both sides in a unique application just use Corcel. You can create your administration panel using WordPress, with users, custom fields, custom post types, etc, but getting all the information inside your Laravel app, with custom models reading directly from the WordPress database. | [corcel]() |	
 | 		[Laravel Critter App](https://github.com/msurguy/critterapp) [T] | Application that resembles Twitter-like functionality | [msurguy]() |
+| 		[Laravel Cloudinary App](https://github.com/msurguy/critterapp) [T] | Demo application and tutorial on how you can build a file or image upload module using Laravel and Cloudinary | [dotunj]() |
 
 ## <a name="D"> </a>D
 
@@ -173,6 +174,7 @@
 | [Laravel-ReadMarvel](https://github.com/ivan-atanasov/readmarvel)[P]	| ReadMarvel is a fan made website. It is built entirely on Laravel 5. All data is provided by Marvel through their public Marvel API. 	|	[ivan-atanasov]()	|
 |    [laravel-robots-txt](https://github.com/OwenMelbz/laravel-robots-txt) [P]                   |   Laravel 5.x helpers for a semi-automated robots.txt and meta tags            |		[owenmelbz]()			|
 | [Laravel Roles](https://github.com/jeremykenedy/laravel-roles)[P] 	| A Powerful package for handling roles and permissions in Laravel 5.4	| [jeremykenedy]()|	
+| [Laravel Resource Controllers](https://github.com/Dotunj/Payo)[T] 	| Demo application and a tutorial for performing crud operations using resource controllers	| [dotunj]()|	
 
 ## <a name="S"> </a>S
 
