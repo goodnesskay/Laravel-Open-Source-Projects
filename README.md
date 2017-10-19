@@ -49,6 +49,7 @@
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 |    [Laravel Doptor CMS & EMS](https://github.com/doptor/doptor)[P]                   |   Business Application platform Doptor CMS & EMS            |	[Doptor]()			|	
 | [Laravel DClassifieds](https://github.com/gdinko/dclassifieds.laravel) [P]	| DClassifieds Free Classifieds Script is free open source classifieds script based on Laravel 5.2 framework. | [gdinko]() |
+|  [Dusk Interactive](https://packagist.org/packages/laracademy/dusk-interactive) [P] | Dusk Interactive is a CLI package for Laravel Dusk. It makes selecting specific tests easier. | [laracademy]()|
 
 ## <a name="E"> </a>E
 
@@ -90,6 +91,7 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
+|  [Interactive Make](https://packagist.org/packages/laracademy/interactive-make) [P] | Interactive make is a CLI package for the command `php artisan make` | [laracademy]()|
 |  [Laravel Invoice Ninja](https://github.com/invoiceninja/invoiceninja) [P]   | Invoice Ninja is a free, open-source solution for invoicing and billing customers. With Invoice Ninja, you can easily build and send beautiful invoices from any device that has access to the web. Your clients can print your invoices, download them as pdf files, and even pay you online from within the system. |[invoiceninja]()|	
 
 ## <a name="J"> </a>J
@@ -113,6 +115,7 @@
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 | [LaraAdmin](https://github.com/dwijitsolutions/laraadmin) [P]	| LaraAdmin is a Open source Laravel Admin Panel / CMS which can be used as Admin Backend, Data Management Tool or CRM boilerplate for Laravel and saves at least 40% of development time over Admin Panels. | [dwijitsolutions]()|
 |     [Larablog](https://github.com/jeremykenedy/larablog)[P]                  |  A powerful Laravel CRUD (Create Read Update Delete) blog built on Laravel 5.1 and Bootstrap 3.5.x  |		[jeremykenedy]()		|	
+| [Laracademy Generators](https://packagist.org/packages/laracademy/generators) [P] | Laracademy Generators is a package that will generate models based on your database table(s). | [Laracademy]() |
 | [Laracogs](https://github.com/YABhq/Laracogs) [P] | Laracogs is a package which can be added to any Laravel 5.1+ app which comes with a handful of commands and helpers to speed up your app development. Laracogs comes with a clean cut starter kit to initialize your app with authentication, admins, teams and all their views. | [Yabhq]() |
 | [Laravel Enterprise Starter Kit (LESK)](https://github.com/leskhq/laravel-enterprise-starter-kit) [P] 	| A flexible and expandable application template based on Laravel LTS with a feature set tailor made for any enterprise Web application. | [LeskHQ](https://github.com/leskhq) |
 | [Laravel Library Management System](https://github.com/prabhakar267/library-management-system) [P] 	| An automated system to manage a public library. Admin panel for librarians to control and manage the system easily through an interactive interface. | [prabhakar267]() |
