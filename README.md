@@ -12,6 +12,7 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
+| [Akaunting](https://akaunting.com)[P]                    |       Free and Online accounting software. Manage your money. Get invoices paid. Track expenses.         |	[akaunting](https://github.com/akaunting/akaunting)				|	
 | [Laravel-AdaptCMS](https://www.adaptcms.com)[P]                    |       AdaptCMS is an open source CMS that is made for complete control of your website, easiness of use and easily adaptable to any type of website.        |	[adaptcms](https://github.com/adaptcms/adaptcms)				|	
 | [Laravel-Apiato](https://github.com/apiato/apiato)[P]                    |       apiato is a flawless framework for building scalable and testable API-Centric Applications with PHP.        |	[apiato]()				|	
 | [Laravel-Auth](https://github.com/jeremykenedy/laravel-auth) [P]	| Laravel 5.2 with user authentication, registration with email confirmation, social media authentication, password recovery, and captcha protection.	| [jeremykenedy]() |
