@@ -194,7 +194,7 @@
 | [Laravel Smart Search](https://github.com/msurguy/laravel-smart-search) [T] | Demo application and a tutorial for nice search with autocomplete | [msurguy]() |
 | [Laravel-Snipe-IT](https://github.com/snipe/snipe-it)[P]	| Snipe-IT is a free, open source Laravel project that makes managing IT assets easy.| [snipe]()|
 | [Laravel Support Ticket](https://github.com/ammezie/support-ticket) [P] | A support ticket application built using the Laravel framework.| [ammezie]()|
-| [Staff Management System](https://github.com/IamWebwiz/staff-management-system) [P] | A little something to help manage your company's staff database.| [IamWebwiz](https://github.com/IamWebwiz)|
+| [Staff Management System](https://github.com/IamWebwiz/staff-management-system) [P] | A little something to help manage your company's staff database :sparkling_heart:.| [IamWebwiz](https://github.com/IamWebwiz)|
 	
 
 ## <a name="T"> </a>T
