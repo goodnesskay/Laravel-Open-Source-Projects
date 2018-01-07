@@ -139,6 +139,7 @@
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 |     [laravel-Nerds](https://github.com/jeremykenedy/laravel-nerds)[T] | A Laravel 5.1 ORM example with Nerds as users    |				[jeremykenedy]()	|
+|     [laravel-newsletter](https://github.com/NathanGeerinck/laravel-newsletter)[P] | Laravel Newsletter gives you the possibility to send a newsletter with use of an external email driver like MailGun.    |				[NathanGeerinck]()	|
 | [Laravel Newsletter Manager](http://github.com/arvernester/newsletter) [P] |	Newsletter manager is application to manage templates, subscribers, and newsletter built with Laravel Framework. This application using built-in features by Laravel like as Scout and Mail Queue, etc. | [arvernester]() |	
 
 ## <a name="O"> </a>O
