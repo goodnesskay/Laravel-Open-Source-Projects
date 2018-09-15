@@ -79,6 +79,7 @@
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 | [Laravel Game of Tests](https://github.com/swisnl/game-of-tests-laravel) [P] | The Game of Tests works by scanning Git repositories and scanning for known test files. It uses Git blame to attribute tests to developers. You can update through multiple artisan commands for Github, bare directories, or single repositories. | [swisnl]() |
 |    [Laravel GitScrum](https://github.com/renatomarinho/GitScrum) [P]              |    GitScrum with the GPLv3 license in Github, I invite everyone to participate. GitScrum is developed with Laravel 5.3 and is intended to be an application to help teams use Git version control and the Scrum framework with support for daily task management.           |		[renatomarinho]()			|	
+| [Goodwork](https://github.com/iluminar/goodwork) [P] | Self hosted project management and collaboration tool | [hasnayeen](https://github.com/hasnayeen) |
 
 ## <a name="H"> </a>H
 
