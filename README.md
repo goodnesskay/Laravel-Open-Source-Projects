@@ -162,6 +162,7 @@
 | [Laravel Podcast Manager](https://github.com/jeremykenedy/laravelpodcast)[P]	| Laravel Podcast Manager is a complete podcast manager package for Laravel 5.3+ that enables you to manage RSS feeds for your favorite podcasts and listen to the episodes in a seamless UI. | [jeremykenedy]() |
 | [Laravel Property Bag](https://github.com/zachleigh/laravel-property-bag) [P] | Easily add a property bag to any Laravel model to store model options and settings. | [zachleigh]() |
 |   [Laravel-push-notification](https://github.com/webelightdev/laravel-push-notification) [P]  |   Push Notifications using Laravel       |		[webelightdev]()			|	
+| [Lumen Portfolio](https://github.com/FaZeRs/naurislinde.com) [P] | Personal portfolio website using Lumen | [FaZeRs](https://github.com/FaZeRs) |
 
 ## <a name="Q"> </a>Q
 
