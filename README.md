@@ -51,6 +51,7 @@
 |    [Laravel Doptor CMS & EMS](https://github.com/doptor/doptor)[P]                   |   Business Application platform Doptor CMS & EMS            |	[Doptor]()			|	
 | [Laravel DClassifieds](https://github.com/gdinko/dclassifieds.laravel) [P]	| DClassifieds Free Classifieds Script is free open source classifieds script based on Laravel 5.2 framework. | [gdinko]() |
 |  [Dusk Interactive](https://packagist.org/packages/laracademy/dusk-interactive) [P] | Dusk Interactive is a CLI package for Laravel Dusk. It makes selecting specific tests easier. | [laracademy]()|
+|  [Directory Manager](https://github.com/damcclean/DirectoryManager) [P] | Directory Manager is a web-based management portal for Active Directory administrators. | [damcclean]()|
 
 ## <a name="E"> </a>E
 
