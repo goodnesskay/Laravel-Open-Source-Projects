@@ -134,6 +134,7 @@
 |   [Laravel Microweber CMS](https://github.com/microweber/microweber) [P]         |     Drag and Drop CMS and online shop    | [microweber]() |	
 | [Laravel Mobilizator](https://github.com/philippejadin/Mobilizator) [P] | Mobilize crowds efficiently. Allow anyone to create a collaborative group. No admins involved in the process. Manage communication, decision making, membership, files and events. | [philippejadin]() |
 | [Maxtradeoptions](https://github.com/IamWebwiz/maxtradeoptions) [P] | Platform for binary options trading featuring basic CRUD, custom notifications, chart and Administration | [IamWebwiz](https://github.com/IamWebwiz) |
+| [Multi-Domain Laravel App](https://github.com/DigitalWheat/Multi-Domain-Laravel) [T] | An example of multi-domain/subdomain app built on Laravel.  | [MaxKostinevich](https://github.com/maxkostinevich) |
 
 ## <a name="N"> </a>N
 
