@@ -87,7 +87,7 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|                       |               |					|	
+| [LaraHack](https://github.com/ScientificClubofESI/LaraHack) [P] | Administration system for Hackathons | [CSE](https://github.com/ScientificClubofESI) |
 
 ## <a name="I"> </a>I
 
