@@ -96,6 +96,7 @@
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 |  [Interactive Make](https://packagist.org/packages/laracademy/interactive-make) [P] | Interactive make is a CLI package for the command `php artisan make` | [laracademy]()|
 |  [Laravel Invoice Ninja](https://github.com/invoiceninja/invoiceninja) [P]   | Invoice Ninja is a free, open-source solution for invoicing and billing customers. With Invoice Ninja, you can easily build and send beautiful invoices from any device that has access to the web. Your clients can print your invoices, download them as pdf files, and even pay you online from within the system. |[invoiceninja]()|	
+|  [InfyOm Laravel Generator](https://github.com/InfyOmLabs/laravel-generator) [P]   | Laravel API and CRUD Generator for AdminLTE and CoreUI themes along with repository pattern and unit tests. |[infyomlabs](https://github.com/InfyOmLabs)|	
 
 ## <a name="J"> </a>J
 
