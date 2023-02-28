@@ -40,7 +40,6 @@
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 | [Cachet](https://github.com/cachethq/Cachet) [P] | Cachet is a beautiful and powerful open source status page system. | [CachetHQ]()|
 |       [Laravel Church Sermons App](https://github.com/dameety/laravel-church-sermons-app) [P]                |      Make your sermons available for members.         |	[dameety]()				 [padosoft]() |
-| 		[Cookbook Webapp](https://github.com/ammannbe/cookbook) [P] | Cookbook Webapp to manage your recipes like a chef | [ammannbe](https://github.com/ammannbe) |
 | [Laravel Corcel](http://github.com/jgrossi/corcel) [P] | Laravel is the most used PHP framework, and WordPress is the most used CMS in the world. If you want to have both sides in a unique application just use Corcel. You can create your administration panel using WordPress, with users, custom fields, custom post types, etc, but getting all the information inside your Laravel app, with custom models reading directly from the WordPress database. | [corcel]() |	
 | 		[Laravel Critter App](https://github.com/msurguy/critterapp) [T] | Application that resembles Twitter-like functionality | [msurguy]() |
 | 		[Laravel Cloudinary App](https://github.com/msurguy/critterapp) [T] | Demo application and tutorial on how you can build a file or image upload module using Laravel and Cloudinary | [dotunj]() |
@@ -185,6 +184,7 @@
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 | [Laravel-ReadMarvel](https://github.com/ivan-atanasov/readmarvel)[P]	| ReadMarvel is a fan made website. It is built entirely on Laravel 5. All data is provided by Marvel through their public Marvel API. 	|	[ivan-atanasov]()	|
+| 		[Laravel RecipeManager (Api)](https://github.com/ammannbe/RecipeManagerApi) [P] | Modern webapp to manage your recipes like a chef | [ammannbe](https://github.com/ammannbe) |
 |    [laravel-robots-txt](https://github.com/OwenMelbz/laravel-robots-txt) [P]                   |   Laravel 5.x helpers for a semi-automated robots.txt and meta tags            |		[owenmelbz]()			|
 | [Laravel Roles](https://github.com/jeremykenedy/laravel-roles)[P] 	| A Powerful package for handling roles and permissions in Laravel 5.4	| [jeremykenedy]()|	
 | [Laravel Resource Controllers](https://github.com/Dotunj/Payo)[T] 	| Demo application and a tutorial for performing crud operations using resource controllers	| [dotunj]()|	
@@ -198,6 +198,7 @@
 |     [Laravel-shareable-models](https://github.com/ksassnowski/laravel-shareable-models)[P]                 | Create shareable links from your eloquent models              |	[sassnowski]()				|
 | [Laravel Shila Backend](https://github.com/itobuz/shila-laravel-backend) [P] | This is a laravel shopping cart cms with stripe payment gateway integration. This project has role and permission creation option with page, post and product adding functionality. You can see list of orders also can refund orders. | [itobuz]() |
 | [Laravel Shop-Menu](https://github.com/msurguy/laravel-shop-menu) [T] | Drag and Drop Menu manager like Wordpress, tutorial being written | [msurguy]() |
+| [Laravel Shoppinglist (Api)](https://github.com/ammannbe/ShoppinglistApi) [P] | Backend API to manage your shopping list | [ammannbe](https://github.com/ammannbe) |
 | [Laravel Skeleton](https://github.com/rdehnhardt/skeleton) [P] | Laravel Skeleton Application| [rdehnhardt]()|
 | [Laravel Smart Search](https://github.com/msurguy/laravel-smart-search) [T] | Demo application and a tutorial for nice search with autocomplete | [msurguy]() |
 | [Laravel-Snipe-IT](https://github.com/snipe/snipe-it)[P]	| Snipe-IT is a free, open source Laravel project that makes managing IT assets easy.| [snipe]()|
