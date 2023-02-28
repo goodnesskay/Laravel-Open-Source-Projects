@@ -72,7 +72,7 @@
 | [Laravel-Flyer-Generator](https://github.com/msurguy/missingpetflyer) [T] | A flyer generator with AJAX upload | [msurguy]() |	
 | [Laravel Flash Alert](https://github.com/bpocallaghan/alert) [P] | A helper package to flash a bootstrap alert to the browser via a Facade or a helper function.| [bpocallaghan]() |
 | [Laravel FTP](https://github.com/Cannonb4ll/LaravelFtp) [P] | A FTP helper package for Laravel | [cannonb4ll]() |
-
+| [Laravel FreeScout](https://github.com/freescout-helpdesk/freescout) [P] | FreeScout is the super lightweight free open source help desk and shared inbox written in PHP7 (Laravel 5.5 framework) – self hosted clone of HelpScout. | [FreeScout](https://github.com/freescout-helpdesk) |
 
 ## <a name="G"> </a>G
 
