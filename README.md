@@ -27,6 +27,7 @@
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 | [Bagisto](https://github.com/bagisto/bagisto) [P] | Bagisto is a hand tailored E-Commerce framework built on some of the hottest opensource technologies such as Laravel (a PHP framework) and Vue.js a progressive Javascript framework. | [Webkul](https://webkul.com/) |
 | [BlogEtc](https://github.com/WebDevEtc/BlogEtc) [P] | Blog system for your laravel app (includes admin backend for managing posts). All views, controllers, routes, models, etc are included, and there are many config options for managing your blog. | [webdevetc](https://webdevetc.com/)|
+| [benjamincrozat.com](https://github.com/benjamincrozat/benjamincrozat.com) [P] | This is a codebase for a blog dedicated to Laravel and web development in general handling 30,000 monthly visitors. | [Benjamin Crozat](benjamincrozat.com) |
 | [LaraBug](https://github.com/Cannonb4ll/LaraBug) [P] | Error reporting tool for Laravel | [cannonb4ll]()|
 |   [Laravel-Backpack](https://github.com/laravel-backpack/base) [P]                   |   Backpack helps you build custom admin panels 10x faster.           |		[Laravel-Backpack]()			|	
 | [Laravel Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate) [P] 	| This project is to be served as a basis for a fully fledged web application, it is constantly evolving and has many contributors	| [rappasoft]() |
