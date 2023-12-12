@@ -98,7 +98,7 @@
 
 | Project Name | Description | Credit |
 | ------------ | ----------- | ------ |
-|[jigsaw](https://github.com/tighten/jigsaw) [P]| Laravel Static site generator             |[tighten](https://github.com/tighten)|
+|[jigsaw](https://github.com/tighten/jigsaw) [P]| Simple static sites with Laravel’s Blade. |[tighten](https://github.com/tighten)|
 
 ## <a name="K"> </a>K
 
