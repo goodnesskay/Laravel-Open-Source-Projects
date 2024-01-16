@@ -113,7 +113,7 @@
 
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
-|                       |               |					|	
+| [Krayin CRM](https://demo.krayincrm.com/) [K] | Krayin CRM is a hand tailored CRM framework built on some of the hottest opensource technologies such as Laravel (a PHP framework) and Vue.js a progressive Javascript framework. Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management. | [Webkul](https://webkul.com/) |	
 
 ## <a name="L"> </a>L
 
