@@ -1,13 +1,14 @@
-# Laravel-Open-Source-Projects
-> A Web Artisan list of categorized OPEN SOURCE PROJECTS built with Laravel PHP Framework. This repository includes a comprehensive and unlimited list of open source projects built with Laravel for Newbies to the framework or for exploration by any web artisan. Enjoy Pushing Codes!!!
+# Laravel-Open-Source-Projects 🚀  
+> A Web Artisan list of categorized 🌟 OPEN SOURCE PROJECTS built with Laravel PHP Framework. This repository includes a comprehensive and unlimited list of open source projects built with Laravel for Newbies to the framework or for exploration by any web artisan. Enjoy Pushing Codes!!! 💻🎉  
 
-## Features
-- Laravel Packages/Projects[P]
-- Tutorial Projects [T]
+## Features ✨  
+- Laravel Packages/Projects[P] 📦  
+- Tutorial Projects [T] 📚  
 
-[A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F) | [G](#G) | [H](#H) | [I](#I) | [J](#J) | [K](#K) | [L](#L) | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | [X](#X) | [Y](#Y) | [Z](#Z)
+[A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F) | [G](#G) | [H](#H) | [I](#I) | [J](#J) | [K](#K) | [L](#L) | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | [X](#X) | [Y](#Y) | [Z](#Z)  
 
-## <a name="A"> </a>A
+## <a name="A"> </a>A 📖  
+
 
 
 | Project Name                             | Description                                                  |	Credit			|
