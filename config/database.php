@@ -1,5 +1,5 @@
 <?php
-
+///this is the code for config/database.php
 return [
 
     /*
@@ -12,7 +12,7 @@ return [
     | you may use many connections at once using the Database library.
     |
     */
-
+//hello
     'default' => env('DB_CONNECTION', 'mysql'),
 
     /*
