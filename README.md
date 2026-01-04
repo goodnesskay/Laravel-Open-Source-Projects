@@ -206,7 +206,7 @@
 | [Laravel-Snipe-IT](https://github.com/snipe/snipe-it)[P]	| Snipe-IT is a free, open source Laravel project that makes managing IT assets easy.| [snipe]()|
 | [Laravel Support Ticket](https://github.com/ammezie/support-ticket) [P] | A support ticket application built using the Laravel framework.| [ammezie]()|
 | [Staff Management System](https://github.com/IamWebwiz/staff-management-system) [P] | A little something to help manage your company's staff database :sparkling_heart:.| [IamWebwiz](https://github.com/IamWebwiz)|
-| [Smart URL Shortener](https://github.com/arashjafari/SmartURLShortener) [P] | Smart URL shortening tools in Laravel | [Arash Jafari](https://github.com/arashjafari) |
+| [Smart URL Shortener](https://github.com/arashjafari/SmartURLShortener) [P] | Smart URL shortening tools in Laravel | [Arash Jafari](https://github.com/arashjafari) | [SiteKit](https://github.com/avansaber/sitekit) [P] | Server management platform for deploying web applications. Provision servers, manage databases, issue SSL certificates, and deploy via Git. Alternative to Laravel Forge, Runcloud etc. | [Nikhil Jathar](https://github.com/mailnike/) |
 
 
 ## <a name="T"> </a>T
