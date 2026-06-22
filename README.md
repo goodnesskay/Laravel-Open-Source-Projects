@@ -227,6 +227,7 @@
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 |    [Laravel Users](https://github.com/jeremykenedy/laravel-users) [P]                   |   A Users Management Package that includes all necessary routes, views, models, and controllers for a user management dashboard and associated pages for managing Laravels built in user scaffolding. Built for Laravel 5.2, 5.3, and 5.4+.          |		[jeremykenedy]()			|	
+| [UnfoldCMS](https://unfoldcms.com) [P] | Self-hosted CMS built on Laravel 12, React 19, shadcn/ui and Tailwind v4. Full admin panel, blog engine, page builder, REST API v1 (42 endpoints), HMAC-signed webhooks, and headless mode for Next.js, Astro, SvelteKit and Nuxt. | [hpakdaman](https://github.com/hpakdaman/unfoldcms) |
 
 ## <a name="V"> </a>V
 
