@@ -15,6 +15,7 @@
 | [Akaunting](https://akaunting.com)[P]                    |       Free and Online accounting software. Manage your money. Get invoices paid. Track expenses.         |	[akaunting](https://github.com/akaunting/akaunting)				|	
 | [Laravel-AdaptCMS](https://www.adaptcms.com)[P]                    |       AdaptCMS is an open source CMS that is made for complete control of your website, easiness of use and easily adaptable to any type of website.        |	[adaptcms](https://github.com/adaptcms/adaptcms)				|	
 | [Laravel-Apiato](https://github.com/apiato/apiato)[P]                    |       apiato is a flawless framework for building scalable and testable API-Centric Applications with PHP.        |	[apiato]()				|	
+| [laravel-appointment-reminders](https://github.com/jy7lsna/laravel-appointment-reminders) [P] | Laravel appointment booking with confirmation emails, calendar invites and automatic reminder emails, sent via the Mailtrap Email API. | [jy7lsna](https://github.com/jy7lsna) |
 | [Laravel-Auth](https://github.com/jeremykenedy/laravel-auth) [P]	| Laravel 5.2 with user authentication, registration with email confirmation, social media authentication, password recovery, and captcha protection.	| [jeremykenedy]() |
 | [laravel-admin](https://github.com/jeremykenedy/laravel-admin) [P] | A Laravel 5.2.x, Bootstrap 3.5.x, and AdminLTE 2.3.x. project. |  [jeremykenedy]() |
 | [laravel-admin](https://github.com/z-song/laravel-admin) [P] |  A Laravel 5.5.x, PHP 7.0.x and AdminLTE project | [z-song]((https://github.com/z-song) |
