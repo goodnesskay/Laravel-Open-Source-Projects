@@ -186,7 +186,7 @@
 | Project Name                             | Description                                                  |	Credit			|
 | ----------------------------------       | ------------------------------------------------------------ |-----------------|
 | [Laravel-ReadMarvel](https://github.com/ivan-atanasov/readmarvel)[P]	| ReadMarvel is a fan made website. It is built entirely on Laravel 5. All data is provided by Marvel through their public Marvel API. 	|	[ivan-atanasov]()	|
-| 		[Laravel RecipeManager (Api)](https://github.com/ammannbe/RecipeManagerApi) [P] | Modern webapp to manage your recipes like a chef | [ammannbe](https://github.com/ammannbe) |
+| 		[Laravel RecipeManager](https://github.com/ammannbe/RecipeManager) [P] | Modern webapp to manage your recipes like a chef | [ammannbe](https://github.com/ammannbe) |
 |    [laravel-robots-txt](https://github.com/OwenMelbz/laravel-robots-txt) [P]                   |   Laravel 5.x helpers for a semi-automated robots.txt and meta tags            |		[owenmelbz]()			|
 | [Laravel Roles](https://github.com/jeremykenedy/laravel-roles)[P] 	| A Powerful package for handling roles and permissions in Laravel 5.4	| [jeremykenedy]()|	
 | [Laravel Resource Controllers](https://github.com/Dotunj/Payo)[T] 	| Demo application and a tutorial for performing crud operations using resource controllers	| [dotunj]()|	
