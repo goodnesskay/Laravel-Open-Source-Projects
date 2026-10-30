@@ -200,7 +200,7 @@
 |     [Laravel-shareable-models](https://github.com/ksassnowski/laravel-shareable-models)[P]                 | Create shareable links from your eloquent models              |	[sassnowski]()				|
 | [Laravel Shila Backend](https://github.com/itobuz/shila-laravel-backend) [P] | This is a laravel shopping cart cms with stripe payment gateway integration. This project has role and permission creation option with page, post and product adding functionality. You can see list of orders also can refund orders. | [itobuz]() |
 | [Laravel Shop-Menu](https://github.com/msurguy/laravel-shop-menu) [T] | Drag and Drop Menu manager like Wordpress, tutorial being written | [msurguy]() |
-| [Laravel Shoppinglist (Api)](https://github.com/ammannbe/ShoppinglistApi) [P] | Backend API to manage your shopping list | [ammannbe](https://github.com/ammannbe) |
+| [Laravel Shoppinglist](https://github.com/ammannbe/Shoppinglist) [P] | Offline-first shopping list PWA – share your lists with family and flatmates. | [ammannbe](https://github.com/ammannbe) |
 | [Laravel Skeleton](https://github.com/rdehnhardt/skeleton) [P] | Laravel Skeleton Application| [rdehnhardt]()|
 | [Laravel Smart Search](https://github.com/msurguy/laravel-smart-search) [T] | Demo application and a tutorial for nice search with autocomplete | [msurguy]() |
 | [Laravel-Snipe-IT](https://github.com/snipe/snipe-it)[P]	| Snipe-IT is a free, open source Laravel project that makes managing IT assets easy.| [snipe]()|
